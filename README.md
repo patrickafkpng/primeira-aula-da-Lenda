@@ -1,2 +1,0 @@
-# primeira-aula-da-Lenda
-<!DOCTYPE html> <html> <head> <meta charset="utf-8"> <title>Aula 02 - Senac </title> </head> <body> <p>A Turma do Senac de Desenvolvimento de Software é a melhor. </p> <ul>Gilberto Leite</ul> <p>Terça-Feira</p> <h2>Boa Tarde</h2 > <div><h1>Olá</h1></div> <img src="https://www.petz.com.br/blog/wp-content/uploads/2021/03/piercing-para-cachorro-2.jpg" alt='Cachorro'/> </body> </html>
